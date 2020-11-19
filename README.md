@@ -44,9 +44,16 @@ Variable character columns - defined as "VARCHAR" Type: (employees:first_name, e
 
 ERD:
 
-Relationships between data:
+Text file  attached.
 
+Image of result attached as well
 
+SCHEMA CREATION
 
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+Documented within SQL
+
+QUERY's
+
+Documented within SQL file
+
 
