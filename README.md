@@ -4,18 +4,12 @@ CSV Inspection
 
 Currently we have 6 tables that have the following structure:
 
-employees:
-  emp_no, birth_date, first_name, last_name, gender, hire_date
-titles:
-  emp_no, title, from_date, to_date
-salaries:
-  emp_no, salary, from_date, to_date
-dept_manager:
-  dept_no, emp_no, from_date, to_date
-dept_employee:
-  emp_no, dept_no, from_date, to_date
-departments
-  dept_no, dept_name
+employees: emp_no, birth_date, first_name, last_name, gender, hire_date
+titles: emp_no, title, from_date, to_date
+salaries: emp_no, salary, from_date, to_date
+dept_manager: dept_no, emp_no, from_date, to_date
+dept_employee: emp_no, dept_no, from_date, to_date
+departments dept_no, dept_name
   
 
 RELATIONSHIPS BETWEEN TABLES
