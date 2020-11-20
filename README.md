@@ -50,4 +50,8 @@ QUERY's
 
 Documented within SQL file
 
+Bonus Challenge
+
+Uploades Jupyter Notebook with comments and markdown
+
 
